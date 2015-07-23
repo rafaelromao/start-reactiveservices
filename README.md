@@ -9,4 +9,4 @@ Powershell command to build and start a ReactiveServices docker container via po
 - Run Install-Module.bat to install the start-reactiveservices module on powershell
 
 ## How to use it
-- On a ReactiveServices solution folder, run 'Start-ReactiveServices my-app' or 'bootstrap my-app'
+- On a ReactiveServices solution folder, run 'Start-ReactiveServices my-app'
